@@ -1,1 +1,1 @@
-# Please go to guidline folder to read pdf file
+# Please go to guidlines and read the pdf
