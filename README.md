@@ -1,1 +1,1 @@
-# Nothing gonna change my love for u :>>>
+# Please read the pdf in guildlines folder for more detail :>>>
