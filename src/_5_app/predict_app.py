@@ -5,9 +5,9 @@ import pandas as pd
 
 THIS_YEAR = 2023
 
-DATA = r'/model_and_data/moto_cleaned_EDA.csv'
+DATA = r'./model_and_data/moto_cleaned_EDA.csv'
 
-SAVE_MODEL = r'/model_and_data/model.pkl'
+SAVE_MODEL = r'./model_and_data/model.pkl'
 
 
 def load_model():
